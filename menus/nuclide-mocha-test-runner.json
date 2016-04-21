@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle nuclide-mocha-test-runner",
+        "command": "nuclide-mocha-test-runner:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "nuclide-mocha-test-runner",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "nuclide-mocha-test-runner:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

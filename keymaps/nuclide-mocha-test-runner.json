@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "nuclide-mocha-test-runner:toggle"
+  }
+}
